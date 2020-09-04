@@ -28,4 +28,4 @@ Archived OSes, programs, and more abandonware available at WinWorld:
 
 www.winworldpc.com
 
-__Note__: Apparently, WinWorld and it's CMS is in beta right now. My pref is to not use IPFS even though it has benifits.
+__Note__: Apparently, WinWorld and it's CMS is in beta right now. My pref is to not use IPFS even though it has bens.
